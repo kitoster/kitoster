@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **python and sql**
 
-- 📫 How to reach me **kit.oster@csuglobal.edu**
+- 📫 Reach me here: **kit.oster@csuglobal.edu**
 
-- ⚡ Fun fact **I love to play tennis and pickleball!**
+- ⚡ A fun fact is that **I love to play tennis and pickleball!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
