@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kit!</h1>
+<h1 align="center">Hi, welcome to Kithub!</h1>
 <h3 align="center">I'm passionate about data.</h3>
 
 - 🔭 I’m currently working on [biodiversity in national parks!](https://nbviewer.org/github/kitoster/ParksExploration-python/blob/main/biodiversity-3.ipynb)
