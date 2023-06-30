@@ -1,7 +1,7 @@
 <h1 align="center">Hi, welcome to Kithub!</h1>
 <h3 align="center">I like finding the stories in data.</h3>
 
-- 🔭 I’m currently working on [biodiversity in national parks!](https://nbviewer.org/github/kitoster/ParksExploration-python/blob/main/biodiversity-3.ipynb)
+- 🔭 I’m currently working on a financial command line app in C++. 
 
 - 🌱 I’m currently learning **more about cybersecurity.**
 
