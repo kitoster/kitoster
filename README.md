@@ -1,5 +1,4 @@
 <h1 align="center">Hi, welcome to Kithub!</h1>
-<h3 align="center">I like finding the stories in data.</h3>
 
 - 🔭 I’m currently working on a financial command line app in C++. 
 
